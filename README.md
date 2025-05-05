@@ -1,6 +1,6 @@
 ### Hi! 🌻 I'm Rachel King 🌻
 
-I'm currently a Data Analyst at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) in Santa Barbara, CA. My focus right now is on a project creating an inventory of digital assets that monitor life on earth, but I have a background in Forest and Ecosystem Ecology. I'm excited about working to make data more accessible and synthesizing exisiting data to answer questions in ecology and environmental science. 
+I'm currently a Postdoctoral Researcher at the National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) in Santa Barbara, CA. My focus right now is on a project creating an inventory of digital assets that monitor life on earth, but I have a background in Forest and Ecosystem Ecology. I'm excited about working to make data more accessible and synthesizing exisiting data to answer questions in ecology and environmental science. 
 
 #### Experience
 - 2022 - present: Postdoctoral Scientist at NCEAS
