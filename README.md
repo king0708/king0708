@@ -7,8 +7,8 @@ I'm currently a Postdoctoral Researcher at the National Center for Ecological An
 - 2020 - 2022: Postdoctoral Fellow at the Smithsonian Environmental Research Center ([SERC](https://serc.si.edu/)))
 
 #### Education
-- 2020: Ph.D. in Ecology, Evolution and Behavior - University of Minnesota
-- 2012: B.A. in Biology, Scripps College
+- Ph.D. in Ecology, Evolution and Behavior - University of Minnesota
+- B.A. in Biology, Scripps College
 
 <!--
 **king0708/king0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
