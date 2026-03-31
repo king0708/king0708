@@ -4,7 +4,7 @@ I'm currently a Postdoctoral Researcher at the National Center for Ecological An
 
 #### Experience
 - 2022 - present: Postdoctoral Scientist at NCEAS
-- 2020 - 2022: Postdoctoral Fellow at the Smithsonian Environmental Research Center ([SERC](https://serc.si.edu/)))
+- 2020 - 2022: Postdoctoral Fellow at the Smithsonian Environmental Research Center ([SERC](https://serc.si.edu/))
 
 #### Education
 - Ph.D. in Ecology, Evolution and Behavior - University of Minnesota
